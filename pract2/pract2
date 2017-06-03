@@ -1,0 +1,2 @@
+v = "hola"
+print(v)

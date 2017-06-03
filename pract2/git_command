@@ -1,0 +1,13 @@
+#Para ver el estado del repoitorio
+git status
+
+#Para agregar archivos a la etapa de commit
+git add .
+
+#Para agregar commitear archivos agregados con git add
+git commit -m "mensaje"
+
+#Para subir archivos commiteados con git commit
+git push
+
+
